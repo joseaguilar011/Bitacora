@@ -3,7 +3,6 @@ Comandos
 
 | Comando | Descripción |
 |--- | ---|
-|*``* |
 |*`docker find`* | Muestra ficheros
 |*`ip addr`* | Da a conocer la ip conectada al VM
 |*`ping 8.8.8.8`* |  Da a conocer si una red esta viva (activa)
